@@ -85,7 +85,7 @@
 {"name":"海胆","url":"http://xf123.cc/api.php/app/"},
 {"name":"抹茶猪","url":"https://www.mczdyw.com/api.php/app/"}],
 "caijizhan": [
-{"name":"百度采集","url":"http://bdzy.com/api.php/"},  
+{"name":"百度采集","url":"https://api.apibdzy.com/api.php"},  
 {"name":"阿远采集","url":"https://www.cjzy.xyz:8888/api.php/"},
 {"name":"酷点采集","url":"http://kudianzy.com/api.php/"},
 {"name":"闪电采集","url":"http://shandianzy.cc/api.php/"},
